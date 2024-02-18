@@ -15,7 +15,7 @@ Installation
 
 + rename "example.config.json" file to "config.json" and add your bot token:
 
- {
+> {
   "token": "YOUR_BOT_TOKEN_HERE"
   }
 
