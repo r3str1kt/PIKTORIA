@@ -1,0 +1,25 @@
+{
+  "name": "piktoria",
+  "version": "1.0.0",
+  "description": "Simple nodejs movie bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "/search"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r3str1kt/PIKTORIA.git"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "r3str1kt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r3str1kt/PIKTORIA/issues"
+  },
+  "homepage": "https://github.com/r3str1kt/PIKTORIA#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
